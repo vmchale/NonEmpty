@@ -1,3 +1,3 @@
-# non-empty
+# NonEmpty
 
 The `NonEmpty` type for Dhall.
